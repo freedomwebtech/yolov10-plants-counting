@@ -63,7 +63,7 @@ while True:
               
                  
                  
-    cv2.line(frame,(2,485),(1018,485),(0,0,255),2)      ---for more accuracy  i change the line coordinates so this is new coordinates
+    cv2.line(frame,(2,485),(1018,485),(0,0,255),2)      (#for more accuracy  i change the line coordinates so this is new coordinates#)
 
     counting=len(plantcount)
    
